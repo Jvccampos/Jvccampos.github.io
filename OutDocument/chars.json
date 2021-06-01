@@ -1,0 +1,112 @@
+{
+    "ri_10": {
+        "nome": "Daisuke Isen",
+        "descricao": "É o irmão do meio de Mizuki Isen. Treina para ser um guerreiro, é humilde e sonhador. Daisuke perdeu seu teste em combate contra Mizuki durante a seleção Tsurugi. Daisuke guarda um pouco de rancor de sua irmã por conta do ocorrido, ele sempre quis ser Tsurugi sempre desde jovem, e, em sua visão, Mizuki destruiu seu sonho por mero capricho. Mas no fundo, Daisuke sabe que Mizuki nunca quis o prejudicar, que sua raiva dela é apenas uma forma de lidar com sua própria frustração, e que o único culpado por sua falha é ele mesmo.",
+        "foto": "images/ri_10.png"
+    },
+    "ri_11": {
+        "nome": "Hattori Isen",
+        "descricao": "É o Quinto portador da espada, ou seja, o líder do clã Tsurugi, responsável por ensinar a seus alunos as posturas e movimentos criadas por seus 4 antecessores, além de seu próprio movimento, o lendário だんせい かっと (Dansei Katto). Foi aluno do quarto portador, Okita Isen, que o escolheu como seu sucessor por seu foco inabalável, respeito e responsabilidade. Hattori sabe que carrega consigo um enorme legado, simbolizado pela espada Kusanagi, que empunha com orgulho em combate. Seu maior medo é que a tradição Tsurugi, que ele valoriza mais que sua própria vida, chegue ao fim por sua causa.",
+        "foto": "images/ri_11.png"
+    },
+    "ri_12": {
+        "nome": "Daichi Isen",
+        "descricao": "É o primogênito de Satoru e Kana Isen, e por isso recebeu o nome de Daichi, o primeiro. É orgulhoso, ambicioso, e faz de tudo para viver conforme os princípios de honra, hierarquia e tradição do clã Isen. Seu maior objetivo é se tornar um espadachim poderoso, servir a um nobre importante, ou até mesmo se tornar capitão da guarda real ou dos Guerreiros Isen. Se tornou Tsurugi como parte desse objetivo. Se sente frustrado por ter sido facilmente derrotado por Mutsuhito, treina todos os dias para desafiá-lo para uma revanche, e provar a si mesmo que realmente merece ser um Tsurugi.",
+        "foto": "images/ri_12.png"
+    },
+    "ri_13": {
+        "nome": "Kana Isen",
+        "descricao": "Filha de Tsukasa Isen, mãe de Daichi, Daisuke e Mizuki Isen. Ao contrário de Tsukasa, Kana nunca se interessou por combate e nem questionou as tradições do clã Isen. Kana, apesar de gostar de sua mãe, não concorda com ela em praticamente nada e ficou indignada ao saber que Tsukasa era parte da família real e escolheu se tornar uma camponesa.",
+        "foto": "images/ri_13.png"
+    },
+    "ri_14": {
+        "nome": "Satoru Isen",
+        "descricao": "Marido de Kana Isen, pai de Daichi, Daisuke e Mizuki Isen. Nasceu em uma família camponesa bem humilde, que vive da terra à gerações. Aprendeu a plantar, colher e caçar desde pequeno, nunca reclamou de seu status social ou de seu trabalho. Para ele, viver da terra como seus antepassados, e usar as técnicas de plantio que eles criaram, é uma forma de honrá-los e prove sustento para sua família. Acredita na tradição Isen e na hierarquia, porém odeia e critica os impostos abusivos cobrados pelo senhor feudal de Mikari.",
+        "foto": "images/ri_14.png"
+    },
+    "ri_15": {
+        "nome": "Mizuki Isen",
+        "descricao": "Tem 17 anos, é uma Isen camponesa, sua família vive da plantação de Trigo e Arroz. Desde pequena sua mãe a insinou a ser uma dama, e insistiu para que ela busque um homem da nabreza para se casar. Mizuki era bastante próxima de seu irmão Daisuke, e especialmente de sua avó, Tsuzasa Isen, a quem ela respeita e admira mais do que qualquer um. Mizuki deseja se tornar uma guerreira para realizar o seu desejo e o de sua avó. Provar que as tradições do clã estão erradas, e que qualquer um deve ser livre para escolher seu próprio caminho",
+        "foto": "images/ri_15.png"
+    },
+    "ri_16": {
+        "nome": "Tsukasa Isen",
+        "descricao": "Avó de Mizuki Isen. Era da família real, e possui a marca de nascença dos Isen. Seus pais e os conselheiros do clã queriam que Tsukasa se casasse com um membro da nobreza que também tinha a marca de nascença, para passá-la para a próxima geração da família, porém, durante uma visita à Mikari, Tsukasa se apaixonou por um camponês. Por discordar da família real, e recusar a seguir suas ordens, Tsukasa foi expulsa da família real. Por anos, ela treinou a arte da espada, e se tornou uma guardiã muito respeitada para que a realeza admitisse seu erro, e a aceitasse de volta. Tsukasa acabou deixando essa ambição de lado quando seu marido adoeceu e teve de cuidar de sua filha, porém, sua ousadia e os feitos são lendários dentro dos guardiões.",
+        "foto": "images/ri_16.png"
+    },
+    "ri_17": {
+        "nome": "Mutsuhito Isen",
+        "descricao": "É o filho de Kenzo Isen, um dos nobres mais influentes do império com grandes ambições. Mutsuhito, porém, não tem interesse nas ambições e de seu pai, ele quer buscar sua honra e marcar Tsuki de uma outra maneira. Deseja se tornar o próximo portador da Espada, e líder dos Tsurugi. Acredita que a maneira dos Tsurugi de honrar seus antepassados é a mais nobre e verdadeira de Tsuki. Tem uma relação conturbada com seu pai Kenzo, eles interagem quase que por formalidade, tudo o que interessa Kenzo é que Mutsuhito não manche sua imagem, e que o sucesso de seu filho ajude em sua escalada política, Mutsuhito por sua vez, despreza o estilo de vida de seu pai, mas tenta ao máximo respeitá-lo ainda assim, afinal, esse é seu dever como Isen.",
+        "foto": "images/ri_17.png"
+    },
+    "ri_18": {
+        "nome": "Aiko Isen",
+        "descricao": "Quer escolher seu próprio destino, desde criança os patriarcas do clã decidiram que, por ser mulher, ela não herdaria o título de imperador de seu pai, e que, por ser Isen Pura, seu dever era ter filhos e passar a tatuagem real para as próximas gerações. Aiko rejeita esse destino assim como várias das tradições do clã Isen, seu objetivo é tomar seu lugar de direito, se tornar a imperatriz de Tsuki e mudar o clã Isen. Acredita que é completamente capaz de governar seu clã, não gosta que a julguem apenas pela marca no seu pescoço, para ela, isso é apenas uma marca, e não sem sentido algum.",
+        "foto": "images/ri_18.png"
+    },
+    "ri_19": {
+        "nome": "Harumi Isen",
+        "descricao": "Harumi é uma Sacerdotisa da Luz, ou seja, é uma das Tenshi da Vida mais influentes e dedicadas do clã. Acredita verdadeiramente nos deuses da vida e da morte, e vive sua vida conforme os ensinamentos e escrituras. Ela gosta de sua família, mas sempre prioriza sua missão, afinal, se ela se dedicar toda sua vontade a servir a Hórus, ela terá a eternidade para passar com sua família quando todos forem morar com os deuses. Os Tenshi da vida são mais apegados ao mundo dos vivos, sua missão é espalhar a palavra e combater infiéis. São extremistas, a maioria não tolera religiões e crenças diferentes, pois acreditam ser os soldados do Deus Hórus na terra. Eles viajam por todo mundo, até mesmo nações inimigas, com o objetivo de espalhar a palavra.",
+        "foto": "images/ri_19.png"
+    },
+    "ri_20": {
+        "nome": "Eri Tenshi",
+        "descricao": "Eri é um jovem Tenshi de 17 anos, desde criança foi doutrinado por sua mãe, pelo Clérigo, e por outros membros de seu clã, a acreditar e seguir a religião Tenshi. O único que o dava liberdade, e ensinava perspectivas e atividades diferentes era seu pai, a quem Eri amava muito. Infelizmente, seu pai começou a aparecer com manchas na pele, e a sofrer do que os cientistas de Taiyo chamariam de uma doença hereditária, porém, o clã Tenshi se recusou a ajudá-lo, pois acreditam que as manchas se tratam de um sinal de Anubis(O deus da morte), que significa que aquele homem já havia cumprido sua missão em vida. Eri ficou muito abalado com a morte de seu pai, e por quase nunca ver sua mãe. Agora o jovem Tenshi enfrenta a mesma doença / maldição, que levou o seu pai, e faz de tudo para sobreviver. Eri ainda não está preparado para enfrentar a morte cara a cara ",
+        "foto": "images/ri_20.png"
+    },
+    "ri_21": {
+        "nome": "Himawari Akuma",
+        "descricao": "É uma jovem Akuma Híbrida, seu pai é da família Li e sua mãe da família Jiao, ela sempre se deu muito bem com ambos, até que eles navegaram juntos para Taiyo em uma viagem de negócios, e nunca mais voltaram.Como híbrida, Himawari sofre um pouco de preconceito especialmente da família Jiao, a ala mais religiosa e conservadora dos Akuma,a família Li por outro lado a acolheu como se fosse um membro de nascença. Depois do desaparecimento dos seus pais, Himawari passou a viver com seu tio Kenzo, que a faz trabalhar para ele em casa e a maltrata sempre que tem oportunidade. Himawari quer se tornar uma guardiã para procurar seus pais, e até mais importante que isso, para se afastar do seu tio e poder se defender dele.",
+        "foto": "images/ri_21.png"
+    },
+    "ri_22": {
+        "nome": "Ruka Tenshi",
+        "descricao": "Segundo a religião dos Tenshi, quando uma pessoa morre, se sua alma for bondosa, mas tiver arrependimentos ou assuntos pendentes, o espírito dessa pessoa pode se prender à esse mundo, quando isso acontece, esses espíritos se ligam a um Tenshi da Morte. Ruka é uma jovem Tenshi da morte, desde pequena ela foi ensinada que o seu único objetivo é ser hospedeira de um espírito, e ajudá-lo a lidar com seus arrependimentos e mágoas para que ele possa se desapegar desse mundo e alcançar a vida eterna. Ruka sempre foi solitária e tímida, nunca teve muitos amigos, e nunca pensou por si mesma no que deseja fazer na vida, por muito tempo ele esteve perdida, seguindo a correnteza. Até que seu espírito guia se manifestou quando ela tinha 12 anos. O espírito é uma jovem da sua idade a quem Ruka apelidou de Tsu-chan. Ruka se tornou muito amiga de seu espírito, e conforme ela envelheceu, Tsu-Chan também recuperou suas memórias e envelheceu junto. Ruka está determinada a ajudar seu espírito a resolver suas pendências em vida, e Tsu-Chan quer ajudar a menina a descobrir seus próprios gostos e objetivos.",
+        "foto": "images/ri_22.png"
+    },
+    "ri_23": {
+        "nome": "Riss Tenshi III",
+        "descricao": "É o líder religioso absoluto do clã Tenshi. Logo, também é o líder político e militar, governa o clã de dentro da catedral de marfim, a posição é vitalícia, quando o Clérigo deixa o mundo dos vivos, os Sacerdotes apontam um novo líder. O Clérigo normalmente enterrado no Vale dos Reis, um mausoléu majestoso dedicado aos membros mais influentes do clã. Riss é um Tenshi da Morte, que é uma facção mais moderada do clã. Porém, a escalada de tensão entre os Akuma e Tenshi, e a radicalização da população indica que o próximo líder deve ser um Tenshi da Vida.",
+        "foto": "images/ri_23.png"
+    },
+    "ri_24": {
+        "nome": "Yoru Akuma",
+        "descricao": "É um Akuma, tem 18 anos, nascido na Família Li, mas foi criado por seus pais adotivos, que são da família Jiao. Seus pais são extremamente religiosos, e o ensinaram tudo sobre a herança e linhagem dos Akumas. Yoru tem bastante preconceito com Tenshis, Dragons e Mirais, porém, tem bastante respeito com a Família Li, ele sonha em um dia se tornar um marinheiro e descobrir terras além de Ozora.",
+        "foto": "images/ri_24.png"
+    },
+    "ri_32": {
+        "nome": "Takashi Isen",
+        "descricao": "É o líder supremo do império de Tsuki, também é conhecido como Sensei, é responsável por guiar a nação e o povo, prezar pelos costumes e tradições, e ditar as relações com outras nações. É o comandante supremo do Exército de Guerreiros, e é visto como um escolhido, a prova de sua legitimidade é a tatuagem real em seu pescoço. O Imperador é responsável por grande parte das decisões, a cada 2 meses ele recebe vários Patriarcas das famílias mais importantes para que eles o aconselhem. Essas reuniões são chamados de reunião das lâminas. Takashi era o segundo na linhagem real, atrás de seu irmão mais velho, e, por isso, foi treinado para se tornar um guerreiro e escudeiro de seu irmão, e não foi tão preparado para assumir o trono. Porém, seu irmão mais velho faleceu junto com seu pai por conta de uma doença, e o jovem Takashi, mesmo despreparado, foi obrigado a se tornar imperador. Takashi é um guerreiro talentoso, mas é um governante inexperiente, se deixou ser influenciado por vários patriarcas de famílias nobres e pelas tradições do clã. Tem uma relação conturbada com sua filha Isen Aiko",
+        "foto": "images/ri_32.png"
+    },
+    "ri_40": {
+        "nome": "Mangetsu Tatsumaki",
+        "descricao": "O Patriarca dos Ventos atual, Mangetsu Tatsumaki, instaurou uma lei em Shibuya que obriga algumas famílias camponesas, a deixar seus filhos sob os cuidados e treinamento de mangetsu até a maioridade, muitos do clã Tatsumaki e até do clã Isen se opuseram a isso, porém Mangetsu conseguiu de alguma forma fazer o imperador apoiar a medida. As crianças são treinadas dentro da sede do clã, ensinadas técnicas de combate, rotas comerciais, história do clã, são moldadas da maneira que Mangetsu preferir, e só podem sair da sede do clã após passarem por um teste aplicado pelo próprio patriarca. Mangetsu acredita que essas crianças serão o futuro do clã, e espera que elas alcancem posições de poder, se tornem líderes, ou até mesmo Ridan. O maior desejo de Mangetsu é recuperar a honra e o orgulho de seu clã, batalhou sua vida inteira para isso, e se tornou um dos melhores guerreiros de Ozora. Mesmo sendo rápido como os Tatsumakis antigos, a idade ainda assim o alcançou, sua esperança é que seus filhos adotivos continuem seu legado e tragam uma nova era de ouro para os Tatsumaki.",
+        "foto": "images/ri_40.png"
+    },
+    "ri_41": {
+        "nome": "Kazemaru Tatsumaki",
+        "descricao": "É o mais novo das crianças de Shibuya. Mangetsu reconhece seu potencial, mas se irrita com a inocência de Kazemaru, acredita que sua bondade é uma fraqueza, e que irá custar sua vida em batalha um dia.Kazemaru fica irritado com Tameda, ela adora irritá-lo e pregar peças, Kazemaru sempre caí por ser tão inocente. Tem raiva de Mangetsu por tê-lo separado de sua família de verdade, mas não tem coragem de enfrentá-lo. Kazemaru sonha em conhecer o mundo fora de Shibuya e em encontrar seus pais verdadeiros. Ele tem algumas lembranças de brincar com sua mãe e irmão quando era bem jovem. Mangetsu se recusa a deixá-lo sair da sede do clã, ou a contar mais sobre sua família de verdade. Adora macarrão e bolinhos de arroz.",
+        "foto": "images/ri_41.png"
+    },
+    "ri_42": {
+        "nome": "Tameda Tatsumaki",
+        "descricao": "Tameda é uma das crianças de Shibuya. É uma orfã e foi adotada quando pequena por Mangetsu Tatsumaki. Tameda é irônica e impaciente, porém dedicada e determinada. Enquanto estava sendo treinada em Shibuya, se tornou bastante próxima de Kazemaru e principalmente Shigen. Depois de passar no teste e aprender o lendário Hayai, Tameda se sentiu invencível por um tempo, se tornou orgulhosa e prepotente. Mas essa noção logo foi abalada quando ela entrou para os guardiões. Tameda descobriu que mesmo depois de todo o treinamento e sofrimento que Mangetsu a fez passar, ela ainda era fraca. Existem várias pessoas mais fortes e habilidosas que ela, pessoas que nem ao menos se dedicaram tanto quanto ela. Tameda está determinada a se tornar uma Guardiã de Elite, derrotar seus companheiros de time e provar que todo seu esforço e sacrifício valeu a pena e que o valor de uma pessoa não é definido por sua genética, e sim por sua vontade. Tameda está passando pela provação que todo Tatsumaki enfrenta um dia, como diria Mangetsu. ``Uma pessoa só mostra o seu verdadeiro valor quando seu talento se esvai e seu esforço é a única que coisa que lhe resta´´",
+        "foto": "images/ri_42.png"
+    },
+    "ri_43": {
+        "nome": "Shigen Tatsumaki",
+        "descricao": "O mais velho das crianças de Shibuya. A mãe de Shigen faleceu durante o seu parto, e seu pai biologico parecia o culpar pela tragédia, o garoto apanhava sempre de seu pai, era obrigado a trabalhar pesado mesmo tendo apenas 5 anos e sempre era chamado de inútil e estorvo. Mangetsu viu potencial em Shigen e comprou sua guarda do pai biológico, que vendeu o menino por apenas 2 moedas de ouro. Mangetsu era severo e seus métodos questionáveis, mas para Shigen seu pai adotivo era como um herói, desde que chegou em Shibuya ouviu com atenção e interesse todos os ensinamentos do Patriarca dos Ventos, estudou e treinou todos os dias, como forma de agradecer por ter sido resgatado de seu pai biológico e para provar que ele realmente vale o preço que Mangetsu pagou por ele. Conforme os anos passaram Shigen passou a ter orgulho de ser um Tatsumaki e herdou a vontade de reerguer o clã. Tem uma boa relação com Tameda e Mangetsu, uma rivalidade e certo desprezo por Kazeshi e é indiferente quanto à Ike e Kazemaru. Atualmente tem 26 anos, e é um respeitado Guardião de Elite.",
+        "foto": "images/ri_43.png"
+    },
+    "ri_44": {
+        "nome": "Ike Tatsumaki",
+        "descricao": "O segundo mais novo das crianças de Shibuya. Foi adotado bem jovem por Mangetsu, não se lembra de seus pais biológicos. É bastante esperto e astuto, e, apesar de tê-lo desrespeitado e desobedecido várias vezes, parece ser um dos favoritos de seu pai adotivo. Ike ao mesmo tempo sente uma enorme raiva e um enorme medo de Mangetsu. Era bem próximo de Kazeshi antes dele fugir, e se aproximou bastante de Kazemaru nos anos seguintes. É reservado e irônico, mas se importa com seus irmãos, decidiu não fugir com Kazeshi e continuar à mercê de Mangetsu para poder ficar perto deles e protegê-los.",
+        "foto": "images/ri_44.png"
+    },
+    "ri_45": {
+        "nome": "Kazeshi Tatsumaki",
+        "descricao": "Kazeshi é o segundo mais velho das crianças de Shibuya. Porém, enquanto seu irmão mais vleho, Shigen, excedia às expectativas de Mangetsu, Kazeshi nunca demonstrou nenhum talento ou aptidão. Ainda assim, ele sempre tentou se esforçar ao máximo para impressionar seu pai adotivo e superar seu irmão. Mangetsu começou a se frustrar cada vez mais com o aprendizado lento de Kazeshi e pensar que ele só serviria para desonrar o clã Tatsumaki e seus irmãos. A última chance dada a Kazeshi para se provar foi durante o teste de Mangetsu. Para passar no teste, ele deveria dominar e usar a técnica lendária dos Tatsumaki antigos, o 早い (Hayai), porém, como Mangetsu esperava, o garoto, mesmo tentando por semanas, nunca conseguiu dominar a técnica, ele era uma falha. Kazeshi passou meses preso na sala do teste, sendo perurado por agulhas, queimado, atacado por Mangetsu, e tendo apenas ração militar para comer, depois de um tempo ele simplesmente desistiu, e tudo que o manteve de pé foi o ódio por seu pai adotivo. Com a ajuda de Ike, seu irmão mais novo, Kaseshi cosseguiu escapar, levando consigo o Anel da Gula. Antes de partir, prometeu à Ike que iria se tornar forte a qualquer custo para se vingar de Mangetsu e libertar seus irmãos.",
+        "foto": "images/ri_45.png"
+    },
+}
